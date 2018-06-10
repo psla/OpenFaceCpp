@@ -5,7 +5,7 @@
 #include <vector>
 #include "NativeDLib.h"
 #include "TorchWrap.h"
-#include <eigen3/Eigen/Eigen>
+#include <eigen/Eigen>
 #include <chrono>
 //#include <eigenlibsvm/svm_utils.h>
 //#include <eigenlibsvm/eigen_extensions.h>
