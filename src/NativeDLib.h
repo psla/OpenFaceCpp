@@ -6,7 +6,8 @@
 #include <dlib/image_processing/render_face_detections.h>
 #include <dlib/image_processing.h>
 #include <dlib/opencv.h>
-#include "opencv2/opencv.hpp"
+#include <opencv2/core/core.hpp>
+#include <opencv2/core/types_c.h>
 
 namespace OpenFaceCpp
 {
