@@ -3,7 +3,7 @@
 #include <tinyxml2.h>
 
 #include <chrono>
-#include <opencv2/core/affine.hpp>
+#include <opencv2/imgproc.hpp>
 
 using namespace OpenFaceCpp;
 using namespace std::chrono;
