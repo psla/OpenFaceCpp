@@ -1,6 +1,7 @@
 #pragma once
 #include <boost/process.hpp>
 //#include <boost/process/config.hpp>
+#include <boost/iostreams/device/file_descriptor.hpp>
 
 #include <vector>
 #include <cstdio>
