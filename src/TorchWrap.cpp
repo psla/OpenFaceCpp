@@ -6,6 +6,7 @@
 #include <chrono>
 
 #include <boost/iostreams/stream.hpp>
+#include <boost/process/create_pipe.hpp>
 
 using namespace OpenFaceCpp;
 
